@@ -1,1 +1,1 @@
-<p align="center"> <img src="file:///C:/Users/jhony/Downloads/giphy.webp.gif" alt="me!"/></p>
+<p align="center"> <img src="<iframe src="https://giphy.com/embed/jWm0c28GZwWXY7kXiR" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/guns-n-roses-slash-jWm0c28GZwWXY7kXiR">via GIPHY</a></p>.gif" alt="me!"/></p>
