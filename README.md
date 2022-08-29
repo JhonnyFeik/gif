@@ -1,2 +1,2 @@
-<p align="center"> <img src="<iframe src="![giphy](https://user-images.githubusercontent.com/103962138/187122482-d1495378-cf36-4ac1-b266-b1ea7cda290e.gif)
+<p align="center"> <img src="![giphy](https://user-images.githubusercontent.com/103962138/187122600-8d9ed12c-5e46-4ff7-a18b-c1a8580eb498.gif)
 .gif" alt="me!"/></p>
